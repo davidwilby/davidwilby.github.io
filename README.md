@@ -2,7 +2,7 @@
 As a Research Software Engineer, my interest is in facilitating the best possible practice in research computing, 
 from good training to advocating reproducible scientific software methods. Currently, most of my work involves 
 providing support regarding impactful research software in the Department of Computer Science at the University of 
-Sheffield - mostly in the Natural Language Processing research group.
+Sheffield - mostly in the Natural Language Processing research group.{: .text-justify}
 
 ### Background
 My background is in animal vision research using methods from computing and physical sciences. Primarily, my 
@@ -12,7 +12,7 @@ of avian retinal photoreceptors. Following this I worked on ray tracing analyses
 volumes of bumblebees and hoverflies with Stockholm and Lund University.
 However, I've had an eclectic career including (but not limited to): startling hermit crabs in behavioural 
 experiments; training chickens to study their colour vision; diving for mantis shrimp to study their secret 
-polarized signals; and doing R&D on TeraHertz electronics for space science.
+polarized signals; and doing R&D on TeraHertz electronics for space science.{: .text-justify}
 
 ### Links
 [Google Scholar](http://bit.ly/wilbyScholar)
