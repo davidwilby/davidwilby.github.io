@@ -22,6 +22,7 @@ polarized signals; and doing R&D on TeraHertz electronics for space science.
 * [Google Scholar](http://bit.ly/wilbyScholar)
 * [RSE @ Sheffield](https://rse.shef.ac.uk)
 * [My GitHub Profile](https://github.com/davidwilby)
+* <a rel="me" href="https://fosstodon.org/@davidwilby">Mastodon</a>
 
 ### Resources
 * [Research Software Methods Lecture for Undergrads](https://github.com/davidwilby/ResearchSoftwareMethods) - [*video*](https://rse.shef.ac.uk/blog/2021-05-25-methods-ug-talk/)
