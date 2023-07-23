@@ -39,3 +39,9 @@ polarized signals; and doing R&D on TeraHertz electronics for space science.
   + [Software best practice: what can it do for me/my research?](https://rse.shef.ac.uk/blog/2019-best-practice/)
   + [Writing better and more shareable code](https://rse.shef.ac.uk/blog/2022-10-20-better-code/)
   + [Handy tools for git(s)](https://rse.shef.ac.uk/blog/2022-08-18-git-tools/)
+
+
+### Talks
+
++ *Making MATLAB projects reproducible and shareable* - OpenFest, University of Sheffield, 2022. [[Slides](https://www.davidwilby.dev/reproducible_matlab/openfest2022/#/title-slide), [Repo](https://github.com/davidwilby/reproducible_matlab), [Video](https://figshare.shef.ac.uk/articles/media/Open_Research_in_Practice_2_OpenFest_session_recording_/21286449)]
++ Guest lecture for Computer Science Undergrads on RSE Methods, 2021-23. [[Slides](https://www.davidwilby.dev/ResearchSoftwareMethods/#/title-slide), [Previous versions](https://github.com/davidwilby/ResearchSoftwareMethods/releases)]
