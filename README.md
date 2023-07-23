@@ -1,5 +1,5 @@
 ### About Me
-I am a Research Software Engineer in the RSE Team at The University of Sheffield. 
+I am a Senior Research Software Engineer in the RSE Team at The University of Sheffield. 
 My interest is in facilitating the best possible practice in research computing, from good training to advocating reproducible scientific software methods.
 
 I act as a software developer on a variety of projects across the spectrum of research at The University of Sheffield and teach workshops on reproducible research software methods and general programming for researchers, particularly relating to git, Python and Matlab.
@@ -29,4 +29,13 @@ polarized signals; and doing R&D on TeraHertz electronics for space science.
 * [Git & GitHub through GitKraken - Zero to Hero](https://github.com/RSE-Sheffield/git-github-zero-to-hero) - course developed by @[annakrystalli](https://github.com/annakrystalli/)
 
 ### Blogs
-* [Software best practice: what can it do for me/my research?](https://rse.shef.ac.uk/blog/2019-best-practice/)
+
++ [Reproducible MATLAB Blog](https://reproduciblematlab.github.io/blog/)
+  + [A concise guide to reproducible MATLAB projects](https://reproduciblematlab.github.io/blog/posts/2022-concise-guide/) (also published on the [Software Sustainability Institute](https://software.ac.uk/blog/2022-07-06-concise-guide-reproducible-matlab-projects) and [RSE Sheffield](https://rse.shef.ac.uk/blog/2022-05-05-concise-guide-to-reproducible-matlab/) blogs)
+  + [Can MATLAB projects ever be reproducible?](https://reproduciblematlab.github.io/blog/posts/2023-07-10-can-matlab-be-reproducible/)
+  + [Reproducible MATLAB: what do the people want?](https://reproduciblematlab.github.io/blog/posts/2023-05-02-survey/)
++ [RSE Sheffield Blog](https://rse.shef.ac.uk/blog/)
+  + [Demonstrating Importance and Value in Research Software](https://rse.shef.ac.uk/blog/2022-10-13-quality-value-research-software/)
+  + [Software best practice: what can it do for me/my research?](https://rse.shef.ac.uk/blog/2019-best-practice/)
+  + [Writing better and more shareable code](https://rse.shef.ac.uk/blog/2022-10-20-better-code/)
+  + [Handy tools for git(s)](https://rse.shef.ac.uk/blog/2022-08-18-git-tools/)
